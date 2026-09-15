@@ -1,0 +1,3 @@
+# Optional real Transformers engine. The simulator needs no third-party runtime packages.
+transformers==4.48.3
+torch==2.6.0
