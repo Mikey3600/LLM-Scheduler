@@ -1,0 +1,7 @@
+max_num_batched_tokens: 32
+max_num_seqs: 8
+cache_blocks: 512
+block_size: 16
+ttft_slo_seconds: 0.1
+tpot_slo_seconds: 0.02
+priority_classes: [0, 1]
